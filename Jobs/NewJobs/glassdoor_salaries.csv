@@ -1,0 +1,1001 @@
+company,no_of_salaries,avg_salary,min_salary,max_salary
+Tata Consultancy Services,49,"₹ 7,47,914/yr",₹395K,"₹1,932K"
+IBM,49,"₹ 12,25,552/yr",₹285K,"₹3,727K"
+Mu Sigma,47,"₹ 6,21,200/yr",₹355K,"₹1,020K"
+Cognizant Technology Solutions,34,"₹ 11,05,414/yr",₹380K,"₹1,884K"
+Accenture,24,"₹ 10,92,969/yr",₹539K,"₹2,423K"
+Fractal,21,"₹ 13,98,963/yr",₹800K,"₹1,960K"
+Mu Sigma,21,"₹ 35,000/mo",₹26K,₹390K
+Infosys,20,"₹ 8,25,161/yr",₹209K,"₹1,700K"
+Impact Analytics,18,"₹ 6,41,319/yr",₹515K,₹860K
+Wipro,16,"₹ 9,80,303/yr",₹212K,"₹2,500K"
+Capgemini,16,"₹ 9,76,422/yr",₹473K,"₹1,800K"
+Microsoft,13,"₹ 16,57,840/yr",₹980K,"₹2,151K"
+Ericsson-Worldwide,13,"₹ 11,82,999/yr",₹386K,"₹3,476K"
+ZS Associates,13,"₹ 11,99,111/yr",₹200K,"₹2,174K"
+Delhivery,12,"₹ 12,85,000/yr",₹706K,"₹11,513K"
+Flutura,12,"₹ 7,38,540/yr",₹311K,"₹1,450K"
+Tata Consultancy Services,12,"₹ 29,025/mo",₹11K,₹66K
+Innoplexus,11,"₹ 12,90,544/yr",₹699K,"₹1,844K"
+Tech Mahindra,11,"₹ 10,42,863/yr",₹390K,"₹2,287K"
+Amazon,11,"₹ 15,73,833/yr",₹600K,"₹4,000K"
+UnitedHealth Group,11,"₹ 13,23,634/yr",₹710K,"₹1,679K"
+Fuzzy Logix,11,"₹ 15,07,204/yr",₹900K,"₹2,174K"
+Cyient,10,"₹ 10,16,414/yr",₹112K,"₹1,967K"
+Verizon,9,"₹ 13,45,192/yr",₹734K,"₹2,365K"
+MiQ,9,"₹ 15,54,872/yr",₹171K,"₹2,458K"
+Housing.com,8,"₹ 22,98,441/yr",₹204K,"₹2,431K"
+Anheuser-Busch InBev,8,"₹ 14,70,123/yr","₹1,049K","₹1,844K"
+Google,7,"₹ 20,00,000/yr",₹270K,"₹7,200K"
+Tiger Analytics,7,"₹ 15,69,783/yr",₹408K,"₹1,819K"
+Scienaptic Systems,7,"₹ 12,42,401/yr",₹146K,"₹5,913K"
+Deloitte,7,"₹ 14,30,283/yr",₹532K,"₹1,614K"
+Société Générale,7,"₹ 18,53,088/yr",₹900K,"₹1,918K"
+Nielsen,7,"₹ 6,90,802/yr",₹600K,"₹1,319K"
+Vidooly Media Tech,6,"₹ 12,689/mo",₹8K,₹20K
+Hewlett Packard Enterprise | HPE,6,"₹ 19,61,178/yr",₹928K,"₹2,466K"
+Innovaccer,6,"₹ 9,26,827/yr",₹615K,"₹1,679K"
+Microsoft,6,"₹ 80,000/mo",₹21K,₹82K
+Karvy,6,"₹ 5,73,402/yr",₹435K,"₹1,372K"
+IBM,6,"₹ 56,154/mo",₹27K,₹156K
+Valiance Solutions,6,"₹ 7,72,507/yr",₹497K,"₹1,140K"
+Walmart,6,"₹ 24,85,949/yr","₹1,851K","₹3,069K"
+Analytics Vidhya,6,"₹ 21,215/mo",₹14K,₹22K
+Quantiphi,5,"₹ 10,26,397/yr",₹762K,"₹1,553K"
+dunnhumby,5,"₹ 15,57,365/yr",₹800K,"₹1,987K"
+OYO,5,"₹ 14,00,000/yr",₹962K,"₹1,866K"
+Blueocean Market Intelligence,5,"₹ 7,20,936/yr",₹688K,₹816K
+Quadratic Insights,5,"₹ 5,51,514/yr",₹347K,₹800K
+Jotter,5,"₹ 8,82,423/yr",₹819K,"₹1,083K"
+Reliance Industries,5,"₹ 17,10,037/yr",₹900K,"₹2,561K"
+Applied Data Finance,5,"₹ 8,34,291/yr",₹659K,"₹1,266K"
+HCL Technologies,5,"₹ 8,40,745/yr",₹500K,"₹1,469K"
+Citi,5,"₹ 18,00,000/yr",₹259K,"₹2,563K"
+Genpact,5,"₹ 8,34,290/yr",₹164K,"₹1,000K"
+INSOFE,5,"₹ 9,14,670/yr",₹600K,"₹1,469K"
+Myntra,5,"₹ 16,73,653/yr",₹220K,"₹2,200K"
+Optum,5,"₹ 12,80,798/yr",₹800K,"₹2,158K"
+Affine Analytics,5,"₹ 11,13,738/yr",₹745K,"₹2,089K"
+Jio,5,"₹ 35,000/mo",₹20K,₹36K
+Jio,5,"₹ 10,36,581/yr",₹647K,"₹2,266K"
+DXC Technology,5,"₹ 12,07,526/yr","₹1,105K","₹2,518K"
+[24]7.ai,5,"₹ 18,63,601/yr","₹1,087K","₹2,236K"
+Swiggy,5,"₹ 43,563/mo",₹41K,₹48K
+Ford Motor Company,5,"₹ 12,00,000/yr","₹1,016K","₹1,534K"
+Flipkart,5,"₹ 19,11,915/yr",₹132K,"₹2,524K"
+Amazon,4,"₹ 77,435/mo",₹51K,₹121K
+Exposys Data Labs,4,"₹ 32,487/mo",₹25K,₹38K
+Wolters Kluwer,4,"₹ 11,24,676/yr",₹418K,"₹9,443K"
+Caterpillar,4,"₹ 10,46,378/yr",₹785K,"₹1,478K"
+Sprinklr,4,"₹ 15,00,000/yr","₹1,500K","₹3,206K"
+Embibe,4,"₹ 13,02,866/yr","₹1,024K","₹2,192K"
+Oracle,4,"₹ 21,07,504/yr","₹1,500K","₹2,868K"
+ThinkBumblebee Analytics,4,"₹ 11,20,000/yr",₹650K,"₹1,360K"
+Ola,4,"₹ 32,27,921/yr","₹1,773K","₹4,005K"
+IQVIA,4,"₹ 7,86,130/yr",₹449K,₹881K
+HP Inc.,4,"₹ 10,98,843/yr",₹373K,"₹1,574K"
+Thoucentric,4,"₹ 7,29,050/yr",₹525K,"₹1,435K"
+YouPlus,4,"₹ 13,54,591/yr",₹668K,"₹1,726K"
+Impact Analytics,4,"₹ 23,260/mo",₹18K,₹25K
+LinkedIn,4,"₹ 19,86,817/yr","₹1,510K","₹2,458K"
+Curl Analytics,3,"₹ 11,24,766/yr",₹726K,"₹1,762K"
+TCS,3,"₹ 9,69,863/yr",₹430K,"₹1,585K"
+Maersk Group,3,"₹ 16,73,653/yr","₹1,429K","₹1,883K"
+Innominds Software,3,"₹ 7,50,000/yr",₹135K,"₹1,322K"
+Algo8.ai,3,"₹ 7,30,004/yr",₹400K,"₹1,345K"
+Swiggy,3,"₹ 49,63,628/yr",₹207K,"₹4,964K"
+Exzeo,3,"₹ 7,84,696/yr",₹686K,"₹1,177K"
+Hexaware Technologies,3,"₹ 7,00,000/yr",₹550K,"₹1,200K"
+AlgoAnalytics Financial Consultancy,3,"₹ 83,683/mo",₹43K,₹85K
+Two Roads Tech,3,"₹ 36,91,976/yr","₹2,637K","₹3,956K"
+Nagarro,3,"₹ 9,52,650/yr",₹626K,"₹1,114K"
+CARS24.com,3,"₹ 14,60,008/yr",₹845K,"₹1,469K"
+Bharti Airtel,3,"₹ 9,46,103/yr",₹720K,"₹1,866K"
+Edelweiss Financial Services,3,"₹ 18,636/mo",₹18K,₹21K
+National Payments Corporation of India,3,"₹ 10,01,564/yr",₹500K,"₹1,877K"
+Honeywell,3,"₹ 15,00,000/yr","₹1,126K","₹1,502K"
+FICO,3,"₹ 15,82,276/yr","₹1,469K","₹1,877K"
+Noodle.ai,3,"₹ 15,91,671/yr","₹1,250K","₹2,858K"
+Episource,3,"₹ 10,59,784/yr",₹863K,"₹1,160K"
+LatentView Analytics,3,"₹ 9,90,345/yr",₹557K,"₹1,838K"
+Gramener,3,"₹ 8,36,827/yr",₹800K,"₹1,341K"
+Guavus,3,"₹ 13,98,089/yr","₹1,183K","₹2,711K"
+Robert Bosch India,3,"₹ 10,50,000/yr",₹953K,"₹1,229K"
+Publicis Sapient,3,"₹ 17,15,447/yr",₹914K,"₹1,765K"
+Times Internet,3,"₹ 34,29,624/yr","₹1,408K","₹3,477K"
+Gojek,3,"₹ 22,78,312/yr","₹2,151K","₹2,534K"
+CASHe,3,"₹ 10,58,907/yr","₹1,058K","₹1,089K"
+Brillio,3,"₹ 13,84,973/yr","₹1,132K","₹1,646K"
+Profeza,3,"₹ 10,755/mo",₹11K,₹11K
+EXL Service,3,"₹ 8,50,000/yr",₹570K,"₹1,198K"
+Bharat Light & Power,3,"₹ 6,96,484/yr",₹558K,₹837K
+upGrad,3,"₹ 23,65,258/yr",₹200K,"₹2,500K"
+Vidooly Media Tech,3,"₹ 15,738/mo",₹12K,₹16K
+Claim Genius,3,"₹ 12,00,000/yr",₹570K,"₹1,350K"
+Innoplexus,3,"₹ 49,517/mo",₹13K,₹497K
+LiquidHub,3,"₹ 10,04,803/yr",₹725K,"₹2,398K"
+Fractal,3,"₹ 33,091/mo",₹19K,₹49K
+Sumyag,3,"₹ 28,583/mo",₹22K,₹29K
+OYO,3,"₹ 35,479/mo",₹30K,₹45K
+T-Systems,3,"₹ 12,41,760/yr","₹1,100K","₹1,423K"
+Mad Street Den Systems,3,"₹ 21,500/mo",₹17K,₹25K
+Artificial Learning Systems,3,"₹ 10,89,066/yr",₹900K,"₹1,307K"
+Yatra Online Pvt Ltd,3,"₹ 15,835/mo",₹11K,₹16K
+Cartesian Consulting,3,"₹ 23,653/mo",₹22K,₹24K
+Atlan,3,"₹ 17,150/mo",₹16K,₹27K
+Mate Labs,3,"₹ 16,336/mo",₹16K,₹21K
+ShieldSquare,3,"₹ 7,37,453/yr",₹667K,₹780K
+Coriolis Technologies,3,"₹ 16,032/mo",₹16K,₹18K
+J.P. Morgan,3,"₹ 7,24,515/yr",₹640K,"₹2,157K"
+Prudential plc,3,"₹ 10,68,773/yr",₹904K,"₹1,103K"
+Draup,3,"₹ 18,00,143/yr","₹1,307K","₹2,098K"
+Manthan,3,"₹ 12,14,629/yr","₹1,008K","₹2,086K"
+PayPal,3,"₹ 6,14,545/yr",₹241K,"₹1,650K"
+Philips,3,"₹ 13,76,579/yr","₹1,244K","₹1,694K"
+Course5 Intelligence,3,"₹ 6,50,000/yr",₹615K,"₹1,271K"
+Quadratic Insights,3,"₹ 37,881/mo",₹35K,₹47K
+XPO Logistics,2,-1,"₹1,456K","₹2,143K"
+Vodafone Idea,2,-1,₹502K,"₹1,855K"
+Belong,2,-1,"₹1,191K","₹1,592K"
+Virtusa,2,-1,₹127K,₹476K
+Kabbage,2,-1,"₹1,824K","₹2,191K"
+ABB,2,-1,₹806K,"₹1,056K"
+Karvy,2,-1,₹13K,₹19K
+Mahindra,2,-1,₹949K,"₹1,050K"
+DataVal Analytics,2,-1,₹53K,₹60K
+Deloitte,2,-1,₹16K,₹31K
+Tata Consultancy Services,2,-1,₹420K,₹670K
+Bounce,2,-1,₹31K,₹34K
+Cisco Systems,2,-1,"₹1,480K","₹1,694K"
+Dell Technologies,2,-1,₹54K,₹188K
+ATCS,2,-1,₹495K,₹827K
+1mg,2,-1,₹34K,₹52K
+GE Healthcare,2,-1,₹26K,₹68K
+Shell,2,-1,"₹4,246K","₹4,677K"
+Antuit,2,-1,₹763K,"₹1,614K"
+Neustar,2,-1,"₹1,554K","₹2,056K"
+Franklin Templeton Investments,2,-1,"₹1,133K","₹1,813K"
+Cyient,2,-1,₹15K,₹51K
+Bewakoof Brands,2,-1,₹581K,₹840K
+Genpact,2,-1,₹44K,₹86K
+Bajaj Finance,2,-1,₹872K,"₹2,023K"
+Yash Technologies,2,-1,₹30K,₹37K
+Deloitte,2,-1,₹52K,₹56K
+MSCI,2,-1,₹58K,₹62K
+Cognizant Technology Solutions,2,-1,₹30K,₹42K
+Atos-Syntel,2,-1,₹391K,₹878K
+Prudent Technologies & Consulting,2,-1,₹140K,₹741K
+MindBowser Info Solutions,2,-1,₹257K,₹283K
+Ingram Micro,2,-1,"₹1,873K","₹2,648K"
+XYZ Tech,2,-1,₹574K,"₹1,238K"
+Bristlecone,2,-1,₹63K,₹67K
+GE Digital,2,-1,₹848K,"₹1,676K"
+Bharat Heavy Electricals,2,-1,"₹1,539K","₹1,709K"
+Karza Technologies,2,-1,₹14K,₹17K
+Naukri.com,2,-1,"₹2,399K","₹2,575K"
+Zebra Technologies,2,-1,₹767K,"₹1,256K"
+Nokia,2,-1,₹627K,₹684K
+Artivatic Data Labs,2,-1,₹451K,₹535K
+Boeing,2,-1,"₹1,950K","₹2,469K"
+Embibe,2,-1,₹26K,₹32K
+HDFC Standard Life Insurance,2,-1,"₹1,028K","₹2,737K"
+TransOrg Analytics,2,-1,₹704K,₹925K
+FarmGuide,2,-1,₹503K,"₹1,551K"
+ParallelDots,2,-1,₹463K,₹639K
+Credit Suisse,2,-1,₹141K,"₹1,424K"
+Busigence Technologies,2,-1,₹26K,₹29K
+American Express,2,-1,"₹1,699K","₹1,960K"
+Humonics,2,-1,₹300K,"₹1,756K"
+Rolls-Royce,2,-1,"₹1,246K","₹1,392K"
+Quantiphi,2,-1,₹12K,₹34K
+Yodlee,2,-1,"₹2,195K","₹2,948K"
+Axis Bank,2,-1,"₹1,342K","₹2,030K"
+Safaltek Software,2,-1,₹45K,₹57K
+LTI,2,-1,₹315K,₹873K
+Ascena Retail Group,2,-1,"₹1,636K","₹2,173K"
+Cognizant Technology Solutions,2,-1,₹383K,₹435K
+CarDekho,2,-1,"₹1,076K","₹1,562K"
+Datakalp,2,-1,₹10K,₹15K
+EY,2,-1,₹814K,"₹1,694K"
+Arya.ai,2,-1,₹754K,₹856K
+WNS,2,-1,"₹1,067K","₹1,965K"
+WNS,2,-1,"₹1,052K","₹1,955K"
+AI Analytics Hub,2,-1,₹8K,₹22K
+Schlumberger,2,-1,"₹2,438K","₹3,189K"
+Postman,2,-1,₹31K,₹35K
+CROPIN TECHNOLOGY SOLUTIONS,2,-1,₹13K,₹24K
+SigTuple,2,-1,"₹1,175K","₹2,840K"
+Novartis,2,-1,₹975K,"₹1,131K"
+All On Block,2,-1,₹104K,"₹1,119K"
+GAVS Technologies,2,-1,₹947K,"₹1,032K"
+Tata Consultancy Services,2,-1,₹14K,₹155K
+Absolutdata,2,-1,₹18K,₹21K
+QuEST Global,2,-1,₹765K,"₹2,002K"
+Marlabs,2,-1,"₹1,057K","₹1,462K"
+IBM,2,-1,₹16K,₹41K
+L&T Financial Services,2,-1,₹829K,"₹1,050K"
+Sagacito,2,-1,₹10K,₹17K
+DataMetica,2,-1,₹822K,"₹1,083K"
+Robert Bosch India,2,-1,₹16K,₹17K
+Fidelity Investments,2,-1,"₹1,557K","₹3,015K"
+Climate Connect,2,-1,₹607K,₹923K
+Zinnov Management Consulting,2,-1,₹947K,"₹1,124K"
+Adobe,2,-1,"₹1,561K","₹5,382K"
+LogiNext Solutions,2,-1,₹358K,₹541K
+LeewayHertz,2,-1,₹6K,₹8K
+ITC Infotech,2,-1,₹388K,₹419K
+MakeMyTrip,2,-1,₹842K,"₹3,185K"
+Swiss Re,2,-1,₹210K,"₹1,374K"
+SetuServ,2,-1,₹385K,"₹9,576K"
+Cube26,2,-1,₹747K,"₹1,266K"
+Zensar Technologies,2,-1,₹480K,"₹1,573K"
+Bristlecone,2,-1,₹964K,"₹1,031K"
+Monsanto Company,2,-1,₹962K,"₹2,931K"
+Mahindra,2,-1,₹16K,₹22K
+SMEcorner,2,-1,₹26K,₹33K
+CRISIL,2,-1,₹347K,₹986K
+Hinduja Global Solutions,2,-1,"₹1,206K","₹1,619K"
+Shipsy,2,-1,₹22K,₹34K
+Samsung India Electronics,2,-1,₹152K,₹556K
+Algo8.ai,2,-1,₹4K,₹6K
+RBL Bank,2,-1,"₹1,316K","₹1,469K"
+Intel Corporation,2,-1,"₹1,094K","₹2,730K"
+Concentrix,2,-1,₹17K,₹290K
+Blue Yonder,2,-1,"₹1,808K","₹1,955K"
+Artificial Penetration,2,-1,₹504K,₹627K
+Xalt Analytics,2,-1,₹382K,₹440K
+Loginworks,2,-1,₹479K,₹521K
+Tatvic Analytics,2,-1,₹9K,₹27K
+HiLabs,2,-1,"₹1,625K","₹1,995K"
+Quadratic Insights,2,-1,₹9K,₹25K
+Landmark Group,2,-1,"₹1,449K","₹1,626K"
+Simplilearn Solutions,2,-1,₹1K,₹2K
+EarlySalary.com,2,-1,₹25K,₹44K
+Tata Consultancy Services (North America),2,-1,₹413K,"₹1,660K"
+DataMetica,2,-1,₹18K,₹19K
+Prophecy Labs,2,-1,"₹1,906K","₹2,058K"
+Applied Materials,2,-1,"₹1,102K","₹1,918K"
+Impact Analytics,2,-1,₹37K,₹72K
+Visa Inc.,2,-1,₹216K,"₹2,664K"
+Ola,2,-1,₹51K,₹64K
+HDFC Developers,2,-1,"₹1,213K","₹1,703K"
+Valiance Solutions,2,-1,₹42K,₹79K
+Accenture,2,-1,₹78K,₹138K
+NetApp,2,-1,"₹2,696K","₹3,268K"
+Dell Technologies,2,-1,₹502K,"₹2,260K"
+WyzMindz,2,-1,₹391K,₹424K
+Netenrich Inc.,2,-1,₹965K,"₹1,282K"
+Spoonshot,2,-1,"₹1,496K","₹2,080K"
+EY,2,-1,₹32K,₹34K
+FourKites,2,-1,"₹2,520K","₹7,625K"
+Cuddle,2,-1,"₹1,798K","₹1,967K"
+Aruba Networks,2,-1,"₹1,381K","₹1,561K"
+ORMAE,2,-1,₹7K,₹21K
+Aptus Data Labs,2,-1,₹506K,"₹1,111K"
+Shadowfax Technologies,2,-1,₹942K,"₹1,035K"
+Morgan Stanley,1,-1,₹77K,₹83K
+Valiance Solutions,1,-1,₹18K,₹19K
+Reliance Industries,1,-1,₹48K,₹52K
+Comsense Technologies,1,-1,₹10K,₹10K
+Knowledge Lens,1,-1,₹509K,₹552K
+Big Data Scientists,1,-1,₹756K,₹821K
+Other,1,-1,₹968K,"₹1,043K"
+Nokia,1,-1,₹418K,₹454K
+Valiance Partners,1,-1,"₹1,575K","₹1,712K"
+American Express,1,-1,₹37K,₹40K
+Gokul Refoils & Solvant,1,-1,₹18K,₹19K
+NiYO,1,-1,₹26K,₹28K
+Human Network,1,-1,₹947K,"₹1,013K"
+Michelin,1,-1,₹979K,"₹1,067K"
+Eagle TK Infotech,1,-1,₹577K,₹618K
+Nico info systems india,1,-1,₹596K,₹646K
+SAP,1,-1,"₹1,612K","₹1,737K"
+EdGe Networks,1,-1,₹18K,₹19K
+Prognos Health,1,-1,"₹1,522K","₹1,651K"
+Ideation Technology Solutions,1,-1,₹42K,₹46K
+Venturit,1,-1,₹10K,₹10K
+Novartis,1,-1,₹24K,₹27K
+HELLO,1,-1,₹88K,₹96K
+Redback,1,-1,₹232K,₹251K
+john,1,-1,₹224K,₹243K
+Xome,1,-1,"₹1,361K","₹1,485K"
+Microsoft,1,-1,₹144K,₹156K
+TVS Emerald,1,-1,"₹1,237K","₹1,346K"
+Lakshya Gupta,1,-1,₹422K,₹454K
+Flutura,1,-1,"₹1,030K","₹1,116K"
+LCC International,1,-1,₹21K,₹23K
+Sigmoid Analytics,1,-1,"₹1,009K","₹1,089K"
+QuantZig,1,-1,"₹1,255K","₹1,347K"
+Excelerate AI,1,-1,₹24K,₹26K
+ZestIOT,1,-1,₹43K,₹47K
+loan2grow,1,-1,₹10K,₹10K
+GS Lab,1,-1,"₹1,028K","₹1,102K"
+Milkbasket,1,-1,"₹1,074K","₹1,180K"
+Graviton Research Capital,1,-1,"₹1,432K","₹1,559K"
+Impact Analytics,1,-1,₹798K,₹861K
+Jadavpur University,1,-1,₹61K,₹66K
+Motion Infotech,1,-1,"₹1,466K","₹1,582K"
+Accenture,1,-1,₹14K,₹16K
+Essar Steel,1,-1,₹34K,₹37K
+Aera Technology,1,-1,₹27K,₹29K
+IBM,1,-1,"₹1,522K","₹1,634K"
+SG Analytics,1,-1,₹745K,₹804K
+Siemens Healthineers,1,-1,"₹1,881K","₹2,034K"
+Abhijith S,1,-1,₹20K,₹22K
+DONE by NONE,1,-1,₹99K,₹106K
+Subex,1,-1,"₹1,026K","₹1,117K"
+Zen3 Info Solutions,1,-1,₹349K,₹372K
+NSH Corp,1,-1,₹478K,₹516K
+Manthan Studio,1,-1,₹967K,"₹1,047K"
+NDS InfoServ,1,-1,₹60K,₹65K
+TekFriday Processing Solutions,1,-1,₹615K,₹659K
+Persistent Networks,1,-1,₹11K,₹12K
+GPS Infotech,1,-1,₹870K,₹945K
+CanGo Networks,1,-1,₹47K,₹51K
+GE,1,-1,"₹1,154K","₹1,244K"
+GSS Infotech,1,-1,"₹1,100K","₹1,185K"
+Calpine Solutions,1,-1,₹62K,₹67K
+ICICI Bank,1,-1,"₹1,497K","₹1,610K"
+ALGOSQUARE,1,-1,₹18K,₹19K
+VMware,1,-1,"₹2,231K","₹2,395K"
+TruVoice,1,-1,₹623K,₹671K
+Techlink Infoware,1,-1,₹26K,₹28K
+Healthcare at Home,1,-1,"₹1,111K","₹1,211K"
+Stericinfotech,1,-1,₹525K,₹562K
+Intellicar,1,-1,₹759K,₹826K
+SAS Institute,1,-1,"₹1,181K","₹1,276K"
+StashFin,1,-1,"₹1,344K","₹1,453K"
+TopCareerOptions,1,-1,₹5K,₹5K
+Furlenco,1,-1,₹20K,₹22K
+Juniper Networks,1,-1,"₹2,819K","₹3,087K"
+Express Analytics,1,-1,₹19K,₹21K
+Mercedes-Benz Research and Development India,1,-1,"₹1,074K","₹1,174K"
+CreditVidya,1,-1,₹35K,₹38K
+Analytical Wizards,1,-1,₹744K,₹794K
+MiQ,1,-1,₹40K,₹43K
+Utopia,1,-1,₹953K,"₹1,049K"
+SenSight Technologies,1,-1,₹14K,₹15K
+YGroup Companies,1,-1,"₹1,479K","₹1,613K"
+SixSense,1,-1,₹19K,₹21K
+Alliance Data,1,-1,₹33K,₹35K
+Tatvic Analytics,1,-1,"₹1,040K","₹1,125K"
+NutaNXT Technologies,1,-1,₹775K,₹827K
+Expert Freelancer Inc.,1,-1,₹511K,₹558K
+Scintel Technologies,1,-1,"₹1,386K","₹1,490K"
+Wipro,1,-1,₹24K,₹26K
+Hitachi,1,-1,"₹2,422K","₹2,619K"
+Linde,1,-1,"₹1,551K","₹1,663K"
+FourKites,1,-1,"₹1,355K","₹1,445K"
+TCN.INDIA,1,-1,₹40K,₹43K
+SiCureMi,1,-1,₹11K,₹12K
+Infosys,1,-1,₹16K,₹17K
+iQuanti,1,-1,"₹1,172K","₹1,289K"
+MobME,1,-1,₹719K,₹779K
+Apalya Technologies,1,-1,₹8K,₹8K
+Great Learning,1,-1,₹911K,₹983K
+ABS,1,-1,₹154K,₹169K
+Augment Systems,1,-1,₹35K,₹38K
+Altimetrik,1,-1,₹566K,₹610K
+Mondelēz International,1,-1,"₹1,924K","₹2,089K"
+Siemens,1,-1,₹97K,₹103K
+i2 Decisions,1,-1,₹543K,₹583K
+Nokia,1,-1,₹34K,₹38K
+CSC,1,-1,₹961K,"₹1,050K"
+RailYatri,1,-1,₹11K,₹12K
+Everyday Health Group,1,-1,"₹1,715K","₹1,867K"
+Fresh,1,-1,₹20K,₹22K
+innData Analytics,1,-1,₹290K,₹314K
+Intersoft Data Labs,1,-1,₹10K,₹10K
+Josh Technology Group,1,-1,₹582K,₹627K
+Priya Softweb Solutions,1,-1,₹357K,₹390K
+i4u Labs,1,-1,"₹2,778K","₹3,036K"
+Taskbob,1,-1,"₹1,678K","₹1,813K"
+BlueStacks,1,-1,"₹1,569K","₹1,693K"
+INSOFE,1,-1,₹442K,₹475K
+roblpeak,1,-1,₹456K,₹493K
+Pervazive,1,-1,₹12K,₹13K
+Ideas2IT,1,-1,"₹1,558K","₹1,693K"
+HDFC ERGO Health Insurance,1,-1,₹21K,₹23K
+My Ally,1,-1,₹23K,₹25K
+Iris Software,1,-1,"₹1,276K","₹1,374K"
+MSCI,1,-1,₹802K,₹878K
+SS Supply Chain Solutions,1,-1,"₹1,221K","₹1,316K"
+Codenscious,1,-1,₹16K,₹17K
+Dipper,1,-1,₹6K,₹6K
+EXL Service,1,-1,₹84K,₹91K
+Sahara India Pariwar,1,-1,"₹1,049K","₹1,142K"
+Monty Telecom Development,1,-1,₹632K,₹687K
+Kane Innovations,1,-1,₹365K,₹403K
+Aniket Sonawane,1,-1,₹765K,₹836K
+Sigmoid Analytics,1,-1,₹913K,₹975K
+CallHealth,1,-1,₹914K,₹981K
+Abzooba India Infotech,1,-1,₹46K,₹50K
+Crossover for Work,1,-1,"₹1,905K","₹2,083K"
+Tata,1,-1,"₹2,003K","₹2,161K"
+Morningstar,1,-1,₹74K,₹80K
+Sabre,1,-1,"₹2,404K","₹2,584K"
+Ericsson-Worldwide,1,-1,₹24K,₹26K
+MOURI Tech,1,-1,₹19K,₹21K
+Techmatters,1,-1,₹540K,₹592K
+Goibibo,1,-1,₹15K,₹16K
+SPi Global,1,-1,₹61K,₹66K
+Indian School of Business,1,-1,₹46K,₹50K
+YDI Solutions,1,-1,₹340K,₹372K
+HDFC Bank,1,-1,₹83K,₹90K
+SMEC,1,-1,"₹1,050K","₹1,133K"
+Aditya Birla Group,1,-1,₹580K,₹627K
+R Systems,1,-1,"₹1,738K","₹1,896K"
+L&Z Assessoria Contábil,1,-1,₹192K,₹206K
+Global Mantra Innovations,1,-1,₹192K,₹206K
+Tech9,1,-1,"₹1,939K","₹2,094K"
+Capillary Technologies,1,-1,₹24K,₹26K
+The Sparks Foundation,1,-1,₹10K,₹10K
+Gartner,1,-1,₹55K,₹60K
+Dun & Bradstreet,1,-1,"₹1,776K","₹1,922K"
+Locus,1,-1,"₹2,516K","₹2,713K"
+My Ally,1,-1,"₹1,251K","₹1,357K"
+AntWorks,1,-1,"₹1,633K","₹1,774K"
+Amzone International,1,-1,₹298K,₹323K
+Xpanxion,1,-1,"₹1,011K","₹1,087K"
+Sprint,1,-1,₹69K,₹75K
+Applied Materials,1,-1,"₹1,513K","₹1,626K"
+Montran,1,-1,₹779K,₹838K
+XYZ Tech,1,-1,₹45K,₹49K
+Proven Consult,1,-1,₹712K,₹783K
+Aashish sharma,1,-1,"₹1,148K","₹1,242K"
+Accenture,1,-1,₹112K,₹123K
+RateGain,1,-1,₹240K,₹257K
+Johnson Controls,1,-1,₹658K,₹714K
+Molecular Connections,1,-1,₹36K,₹39K
+Quantamix Solutions,1,-1,₹6K,₹7K
+Technosoft Corporation,1,-1,₹29K,₹31K
+NP Global,1,-1,₹322K,₹349K
+Infobase Systems,1,-1,₹804K,₹872K
+Ocwen Financial,1,-1,"₹1,143K","₹1,228K"
+Blackstraw,1,-1,"₹1,536K","₹1,643K"
+CommerceIQ,1,-1,₹69K,₹73K
+National Centre for Biological Sciences,1,-1,₹393K,₹428K
+Honeywell Technology Solutions Lab Pvt Ltd,1,-1,"₹1,531K","₹1,651K"
+ValueLabs,1,-1,"₹2,363K","₹2,575K"
+Flutura,1,-1,₹56K,₹61K
+Elucidata (MA),1,-1,₹956K,"₹1,036K"
+TietoEvry,1,-1,₹666K,₹735K
+Bestintown Analytics,1,-1,₹22K,₹24K
+Enquero,1,-1,"₹1,362K","₹1,489K"
+Synopsys,1,-1,₹355K,₹387K
+CTE,1,-1,"₹9,718K","₹10,486K"
+Deloitte,1,-1,821K,883K
+AIChunks,1,-1,₹10K,₹11K
+GE,1,-1,"₹1,039K","₹1,130K"
+KPMG,1,-1,₹872K,₹939K
+Quantium,1,-1,₹17K,₹19K
+NCBS,1,-1,₹393K,₹428K
+GroupM,1,-1,₹37K,₹40K
+Thomson Reuters,1,-1,"₹1,286K","₹1,401K"
+Merkle,1,-1,"₹1,212K","₹1,294K"
+Deutsche Bank,1,-1,₹65K,₹69K
+Reliance,1,-1,₹740K,₹811K
+Kavyant Technologies,1,-1,₹578K,₹621K
+advids.co,1,-1,₹74K,₹81K
+James,1,-1,₹1K,₹1K
+Phenom People,1,-1,"₹2,209K","₹2,367K"
+Monsoon (India),1,-1,"₹1,216K","₹1,295K"
+Play Games24x7,1,-1,"₹1,973K","₹2,138K"
+Jash Data Sciences,1,-1,₹671K,₹723K
+Development Credit Bank Limited,1,-1,₹435K,₹466K
+Skillmap Training and Services,1,-1,₹34K,₹36K
+Safeducate Institute of Learning,1,-1,₹772K,₹827K
+Zycus,1,-1,"₹1,452K","₹1,585K"
+Group IMD,1,-1,"₹1,142K","₹1,232K"
+MetLife,1,-1,₹384K,₹417K
+Tata Steel,1,-1,"₹2,083K","₹2,235K"
+PwC,1,-1,₹27K,₹29K
+Simpl,1,-1,"₹2,713K","₹2,917K"
+Bobble Keyboard,1,-1,₹16K,₹17K
+Ankit,1,-1,₹29K,₹31K
+Orzota,1,-1,₹456K,₹496K
+Biosense Technologies,1,-1,₹484K,₹516K
+EdgeVerve Systems,1,-1,"₹1,064K","₹1,166K"
+Cisco Systems,1,-1,₹753K,₹807K
+Mindtree,1,-1,"₹1,255K","₹1,370K"
+Cerner,1,-1,"₹1,934K","₹2,074K"
+FeltSo,1,-1,₹60K,₹64K
+Raghavendra Rathore Jodhpur,1,-1,"₹1,447K","₹1,569K"
+CleverTap,1,-1,"₹1,863K","₹2,028K"
+Comviva,1,-1,₹14K,₹16K
+Bharti Airtel,1,-1,₹336K,₹359K
+Abhinav Outsourcings,1,-1,"₹1,231K","₹1,342K"
+BMC Software,1,-1,₹59K,₹64K
+Kevit Technologies,1,-1,₹15K,₹17K
+CES (India),1,-1,₹605K,₹651K
+Deutsche Bank,1,-1,"₹1,421K","₹1,550K"
+Capital One,1,-1,₹150K,₹163K
+Student,1,-1,₹35K,₹38K
+Rapido,1,-1,₹29K,₹32K
+UniQreate,1,-1,₹484K,₹517K
+Sirpi,1,-1,₹14K,₹15K
+L&T Technology Services,1,-1,₹657K,₹708K
+Mobius Knowledge Services,1,-1,₹497K,₹536K
+Unisave Marketing Networks,1,-1,₹18K,₹19K
+Ecozen Solutions,1,-1,₹23K,₹25K
+Wellness Forever,1,-1,₹12K,₹14K
+Ericsson-Worldwide,1,-1,₹40K,₹43K
+Tredence,1,-1,"₹1,260K","₹1,345K"
+Flipkart,1,-1,₹96K,₹105K
+AdWyze,1,-1,₹30K,₹32K
+Hdfc,1,-1,₹154K,₹170K
+Perpule,1,-1,"₹1,191K","₹1,301K"
+RyDOT Infotech,1,-1,₹299K,₹328K
+PRM Fincon,1,-1,"₹1,686K","₹1,837K"
+Usha International Limited,1,-1,"₹2,018K","₹2,217K"
+Lenovo,1,-1,"₹2,185K","₹2,322K"
+Goals101,1,-1,₹10K,₹10K
+RedCarpet,1,-1,₹20K,₹22K
+eBay,1,-1,"₹1,415K","₹1,534K"
+Veron Technologies,1,-1,₹953K,"₹1,027K"
+Pegasystems,1,-1,"₹1,121K","₹1,210K"
+Zopper,1,-1,"₹2,178K","₹2,396K"
+eClerx,1,-1,₹44K,₹48K
+Eruvaka Technologies,1,-1,₹20K,₹22K
+Jotter,1,-1,₹75K,₹81K
+Darashaw Consultants,1,-1,₹193K,₹206K
+Shine,1,-1,₹716K,₹773K
+Electronic Arts,1,-1,₹876K,₹940K
+Bahwan CyberTek,1,-1,₹727K,₹784K
+Transabel,1,-1,₹19K,₹21K
+UnitedHealth Group,1,-1,₹25K,₹27K
+Sokrati,1,-1,₹25K,₹28K
+Patrick,1,-1,₹393K,₹423K
+Kaleidofin,1,-1,"₹1,152K","₹1,253K"
+Decimal Technologies,1,-1,"₹1,349K","₹1,455K"
+Indimedics Healthcare,1,-1,₹41K,₹45K
+Anheuser-Busch InBev,1,-1,₹105K,₹113K
+DataTrained,1,-1,₹478K,₹523K
+Alfonso & Associates Consulting,1,-1,"₹3,288K","₹3,560K"
+Icreon,1,-1,"₹1,022K","₹1,107K"
+R.R. Donnelley,1,-1,₹919K,₹987K
+CanWill Technologies,1,-1,"₹1,100K","₹1,178K"
+TCG Digital,1,-1,"₹1,414K","₹1,539K"
+Analytics Vidhya,1,-1,₹165K,₹179K
+Applied Research Works,1,-1,₹611K,₹665K
+FreeCharge,1,-1,₹21K,₹23K
+PSL (India),1,-1,"₹1,066K","₹1,149K"
+BTM Financial,1,-1,₹409K,₹441K
+Evive,1,-1,₹54K,₹58K
+Diet Code,1,-1,₹691K,₹744K
+Unisys,1,-1,₹426K,₹456K
+CRED,1,-1,"₹2,424K","₹2,608K"
+Higroove Systems,1,-1,₹44K,₹47K
+Motorq,1,-1,₹108K,₹117K
+CoRover,1,-1,"₹1,853K","₹2,028K"
+vElement,1,-1,₹232K,₹249K
+Dew Solutions,1,-1,₹58K,₹63K
+Dainik Bhaskar,1,-1,₹664K,₹716K
+PipeCandy,1,-1,₹507K,₹547K
+AgroStar,1,-1,₹51K,₹55K
+UangTeman,1,-1,₹521K,₹562K
+Bepec Solutions,1,-1,₹426K,₹468K
+Dure Technologies,1,-1,"₹1,432K","₹1,549K"
+AscentHR Services,1,-1,₹327K,₹355K
+Data Sutram,1,-1,₹300K,₹328K
+Wipro,1,-1,₹10K,₹11K
+Vivriti Capital,1,-1,"₹2,050K","₹2,184K"
+Trinity Mobility,1,-1,₹591K,₹637K
+SahiCareer,1,-1,₹20K,₹22K
+Finception,1,-1,₹10K,₹11K
+Pentation Analytics,1,-1,₹481K,₹522K
+ExxonMobil,1,-1,"₹2,630K","₹2,878K"
+Tata Power DDL,1,-1,₹6K,₹6K
+Innowatts,1,-1,₹692K,₹755K
+Xoanon Analytics,1,-1,"₹1,167K","₹1,248K"
+Opera Solutions,1,-1,"₹2,378K","₹2,580K"
+C-DAC,1,-1,₹436K,₹467K
+Concentrix,1,-1,₹482K,₹523K
+Grofers,1,-1,₹50K,₹54K
+Pluto7,1,-1,₹46K,₹50K
+Wave Infosoft,1,-1,₹575K,₹616K
+Eaton,1,-1,"₹1,391K","₹1,501K"
+GlobalData,1,-1,₹773K,₹846K
+NMIMS,1,-1,₹78K,₹84K
+Aptagrim Consulting,1,-1,₹10K,₹11K
+Twimbit,1,-1,₹14K,₹16K
+Essker Technologies,1,-1,₹416K,₹446K
+Vertiv,1,-1,₹618K,₹677K
+Myraa Technologies,1,-1,₹24K,₹26K
+GradValley Data Science,1,-1,₹16K,₹17K
+PIMCO,1,-1,"₹1,190K","₹1,304K"
+Tatras Data,1,-1,"₹1,198K","₹1,290K"
+Lybrate,1,-1,₹10K,₹10K
+Birlasoft,1,-1,"₹8,757K","₹9,604K"
+DeepTek Medical Imaging,1,-1,₹786K,₹858K
+BayesLabs,1,-1,₹572K,₹622K
+M-SIX Technology,1,-1,₹944K,"₹1,024K"
+Teras Tech Solutions,1,-1,₹870K,₹955K
+The Data Team,1,-1,₹595K,₹649K
+BluePi,1,-1,₹479K,₹523K
+62ABOVE,1,-1,₹363K,₹388K
+Freelancer,1,-1,₹1K,₹1K
+PolicyBazaar,1,-1,₹949K,"₹1,031K"
+Tata Motors,1,-1,"₹1,125K","₹1,229K"
+RxLogix Corporation,1,-1,"₹1,429K","₹1,556K"
+PwC,1,-1,₹48K,₹52K
+PwC,1,-1,₹48K,₹52K
+D2K Technologies India,1,-1,₹612K,₹671K
+Cogoport,1,-1,₹52K,₹56K
+Liberin Technologies,1,-1,₹3K,₹3K
+Toppr.com,1,-1,₹32K,₹34K
+BANK,1,-1,₹91K,₹98K
+TheMathCompany,1,-1,₹543K,₹588K
+Impressico Business Solutions,1,-1,₹721K,₹773K
+Perfectice,1,-1,₹8K,₹8K
+Affine Analytics,1,-1,₹14K,₹16K
+ALSTOM,1,-1,₹960K,"₹1,039K"
+Virtusa,1,-1,₹8K,₹9K
+Industryarc,1,-1,"₹1,022K","₹1,104K"
+JC's BBQ & Grill,1,-1,₹105K,₹113K
+DIMTS,1,-1,"₹1,986K","₹2,143K"
+Coffee Beans,1,-1,₹623K,₹676K
+BidMath,1,-1,₹961K,"₹1,032K"
+InMobi,1,-1,"₹3,060K","₹3,299K"
+Aaum Research and Analytics,1,-1,₹58K,₹63K
+Iksula,1,-1,₹863K,₹927K
+Cloud Counselage,1,-1,₹10K,₹11K
+MyCityWay,1,-1,"₹2,278K","₹2,469K"
+Flipkart,1,-1,₹52K,₹56K
+EventStreet,1,-1,₹635K,₹689K
+Boeing,1,-1,₹75K,₹81K
+Moglix,1,-1,"₹1,220K","₹1,311K"
+Powerup Technology Inc,1,-1,₹45K,₹49K
+Discover Dollar,1,-1,₹12K,₹12K
+Yashoda Hospital,1,-1,₹344K,₹368K
+Quadrant 4 Systems,1,-1,₹955K,"₹1,027K"
+Lava International,1,-1,₹599K,₹644K
+Shrofile,1,-1,₹10K,₹11K
+Startup,1,-1,₹38K,₹41K
+HERE Technologies,1,-1,₹32K,₹34K
+Cisco Systems,1,-1,₹10K,₹11K
+Fiabilte Networks Solutions,1,-1,₹514K,₹561K
+Roposo,1,-1,"₹2,981K","₹3,245K"
+General Mills,1,-1,"₹2,223K","₹2,407K"
+ExcelR,1,-1,₹344K,₹371K
+Objectsol Technologies,1,-1,₹231K,₹251K
+QuantZig,1,-1,₹29K,₹31K
+AmberTAG Analytics,1,-1,₹324K,₹351K
+LinkedIn,1,-1,₹51K,₹55K
+Lazada,1,-1,₹14K,₹15K
+Star TV Network,1,-1,"₹1,929K","₹2,088K"
+Icreon Communications,1,-1,"₹1,422K","₹1,544K"
+IBM India,1,-1,"₹2,600K","₹2,837K"
+Reliance Industries,1,-1,₹892K,₹954K
+Litifer,1,-1,₹10K,₹10K
+Yotta Systems,1,-1,₹36K,₹39K
+ToXSL Technologies,1,-1,₹75K,₹80K
+SPi Technologies,1,-1,₹673K,₹734K
+RDA Labs,1,-1,"₹1,850K","₹2,019K"
+RateGain,1,-1,"₹1,145K","₹1,247K"
+Shivam Gupta,1,-1,"₹1,616K","₹1,773K"
+Mphasis,1,-1,₹68K,₹74K
+Navidium,1,-1,₹629K,₹689K
+Entropik Tech,1,-1,₹11K,₹12K
+redBus India,1,-1,"₹2,060K","₹2,216K"
+Upwork,1,-1,₹14K,₹15K
+Upwork,1,-1,₹14K,₹16K
+Navriti Technologies,1,-1,₹20K,₹22K
+ValueFirst Digital Media,1,-1,₹16K,₹17K
+ZiffyHomes,1,-1,₹594K,₹637K
+Delhivery,1,-1,₹35K,₹38K
+Angel Broking,1,-1,₹20K,₹22K
+GE Aviation,1,-1,"₹1,251K","₹1,361K"
+Rubique,1,-1,"₹1,363K","₹1,467K"
+CROPIN TECHNOLOGY SOLUTIONS,1,-1,₹54K,₹59K
+Zendrive,1,-1,"₹1,364K","₹1,477K"
+Ardent Technologies,1,-1,₹571K,₹620K
+Vmoksha Technologies,1,-1,₹469K,₹504K
+eKincare,1,-1,₹606K,₹656K
+Google,1,-1,₹216K,₹237K
+Sciative Solutions,1,-1,₹537K,₹586K
+NorthOut,1,-1,₹42K,₹45K
+Global Eagle,1,-1,"₹3,828K","₹4,133K"
+Global Tech Promoters,1,-1,₹288K,₹311K
+MeasureOne,1,-1,"₹1,561K","₹1,686K"
+Dell Technologies,1,-1,₹30K,₹32K
+MoneyTap,1,-1,"₹2,865K","₹3,110K"
+Target,1,-1,"₹2,233K","₹2,407K"
+Fresh Gravity,1,-1,₹48K,₹52K
+NextGenVision Technology,1,-1,"₹1,029K","₹1,100K"
+DataScientest,1,-1,₹57K,₹63K
+ABC,1,-1,₹856K,₹941K
+FourKites,1,-1,₹28K,₹31K
+WebMD Health,1,-1,₹829K,₹893K
+HDFC Ergo,1,-1,₹290K,₹311K
+Tech Holding,1,-1,₹574K,₹620K
+Experian,1,-1,₹28K,₹30K
+NIKI,1,-1,₹484K,₹522K
+Morningstar,1,-1,"₹1,306K","₹1,405K"
+Technogeeks,1,-1,₹200K,₹217K
+Blink Digital (India),1,-1,₹403K,₹437K
+Webhelp,1,-1,"₹1,685K","₹1,823K"
+Nielsen,1,-1,₹48K,₹51K
+J.P. Morgan,1,-1,₹75K,₹82K
+Molecular Connections,1,-1,₹532K,₹573K
+Spinnaker Support,1,-1,"₹1,541K","₹1,660K"
+Molecular Connections,1,-1,₹530K,₹571K
+Spinnaker Support,1,-1,"₹1,527K","₹1,674K"
+Freelance,1,-1,"₹3,045K","₹3,302K"
+Capital Float,1,-1,₹24K,₹26K
+Tekbiz Soft Solutions,1,-1,₹530K,₹574K
+Panasonic,1,-1,"₹1,443K","₹1,547K"
+MakroCare,1,-1,"₹5,518K","₹5,985K"
+CredR,1,-1,₹695K,₹747K
+IBM GBS,1,-1,₹428K,₹468K
+Draup,1,-1,₹30K,₹32K
+UNIQ Technologies,1,-1,₹35K,₹39K
+SeedOlabs,1,-1,₹465K,₹501K
+Chemdiqas R & D,1,-1,₹617K,₹669K
+Exceloid Soft Systems,1,-1,₹10K,₹11K
+HTC Global Services,1,-1,₹30K,₹33K
+Robert Bosch,1,-1,"₹1,098K","₹1,188K"
+Tokopedia,1,-1,₹104K,₹114K
+Altimetrik,1,-1,₹30K,₹32K
+Vermeer,1,-1,₹288K,₹314K
+Intelligence Node,1,-1,₹26K,₹28K
+Broadridge,1,-1,"₹1,918K","₹2,093K"
+NEC Technologies India,1,-1,₹679K,₹740K
+Samsung Electronics,1,-1,"₹2,295K","₹2,481K"
+HARMAN,1,-1,₹567K,₹622K
+Reckonsys,1,-1,₹83K,₹90K
+Cronycle,1,-1,₹15K,₹16K
+Teknuance Info Solutions,1,-1,₹258K,₹281K
+Fuzzy Logix,1,-1,₹116K,₹127K
+Virtusa,1,-1,₹57K,₹62K
+Yottaasys,1,-1,"₹1,346K","₹1,452K"
+ICUBE Consultancy Services,1,-1,₹649K,₹700K
+Casa Hospital San Juan de Dios,1,-1,₹479K,₹524K
+Sumyag,1,-1,₹55K,₹59K
+Nucsoft,1,-1,₹314K,₹337K
+edwisor,1,-1,₹51K,₹55K
+Blackcoffer,1,-1,₹21K,₹23K
+CGI,1,-1,₹395K,₹428K
+Bidgely,1,-1,"₹1,636K","₹1,779K"
+LTI,1,-1,₹563K,₹616K
+AltraSys,1,-1,₹325K,₹347K
+Capgemini,1,-1,₹39K,₹42K
+Nokia,1,-1,₹342K,₹373K
+Yes Bank,1,-1,₹48K,₹52K
+Xeco,1,-1,₹302K,₹326K
+ZEE5,1,-1,"₹1,433K","₹1,560K"
+Alma Mater Biz Solutions,1,-1,₹2K,₹2K
+Q Management,1,-1,₹97K,₹104K
+Bajaj Finserv Lending,1,-1,₹173K,₹187K
+Zolo,1,-1,"₹1,128K","₹1,222K"
+Dentalkart,1,-1,₹42K,₹45K
+Algebra Software Analytics,1,-1,₹999K,"₹1,084K"
+Dell Technologies,1,-1,₹50K,₹54K
+KPMG,1,-1,₹18K,₹19K
+Grofers,1,-1,"₹1,791K","₹1,930K"
+Internshala,1,-1,"₹1,137K","₹1,238K"
+ION Trading,1,-1,"₹1,022K","₹1,111K"
+Uniphore Software Systems,1,-1,₹877K,₹939K
+Mastercard,1,-1,"₹2,100K","₹2,280K"
+Mâ-Loango Regional Museum?,1,-1,₹476K,₹523K
+Boston Consulting Group,1,-1,₹814K,₹883K
+Practo Technologies,1,-1,"₹1,622K","₹1,741K"
+ABC Tech,1,-1,₹57K,₹61K
+Ecom Express,1,-1,₹30K,₹32K
+Helpshift,1,-1,₹64K,₹69K
+Ron Bhalla,1,-1,"₹1,439K","₹1,545K"
+PwC,1,-1,"₹1,970K","₹2,169K"
+D2K Technologies India,1,-1,₹22K,₹24K
+Axis Mutual Fund,1,-1,₹80K,₹87K
+Intain,1,-1,₹955K,"₹1,031K"
+Spineor,1,-1,₹29K,₹31K
+Comviva,1,-1,₹285K,₹314K
+Niama-Riesser,1,-1,₹234K,₹251K
+Spice Money,1,-1,₹704K,₹758K
+Praktice Ai,1,-1,₹30K,₹33K
+Kudos Finance and Investments,1,-1,₹31K,₹34K
+Self,1,-1,₹788K,₹853K
+TheMathCompany,1,-1,₹798K,₹869K
+Bharat Petroleum,1,-1,"₹1,973K","₹2,116K"
+LIBSYS (India),1,-1,"₹1,639K","₹1,793K"
+Aureus Analytics,1,-1,"₹1,001K","₹1,080K"
+OneView,1,-1,₹477K,₹523K
+BlueBanyan,1,-1,₹5K,₹6K
+Adaan,1,-1,₹528K,₹570K
+InfoObjects,1,-1,₹60K,₹66K
+Prestidge Group,1,-1,"₹1,535K","₹1,658K"
+Hurrey Tech Ventures,1,-1,₹14K,₹16K
+Navidium,1,-1,₹51K,₹56K
+First Student,1,-1,"₹1,045K","₹1,134K"
+Amdocs,1,-1,₹663K,₹727K
+AppZoro Technologies,1,-1,₹22K,₹24K
+SCORG Technologies,1,-1,₹605K,₹650K
+Canopus Data Insights,1,-1,₹173K,₹187K
+Trafigura,1,-1,"₹3,548K","₹3,868K"
+Tata Capital,1,-1,"₹1,066K","₹1,152K"
+Gembrill Technologies,1,-1,"₹1,064K","₹1,146K"
+N+A,1,-1,"₹1,220K","₹1,317K"
+Birdeye,1,-1,₹519K,₹566K
+Kvantum,1,-1,₹788K,₹857K
+SelotSoft,1,-1,"₹1,832K","₹1,968K"
+Raja Software Labs,1,-1,₹494K,₹532K
+SelotSoft,1,-1,"₹1,827K","₹1,998K"
+Raja Software Labs,1,-1,₹496K,₹531K
+Tesseract Global Solutions,1,-1,₹920K,₹998K
+Innefu Labs Pvt,1,-1,₹956K,"₹1,025K"
+Cogoport,1,-1,"₹1,002K","₹1,088K"
+Perpule,1,-1,₹26K,₹29K
+Microland,1,-1,"₹2,879K","₹3,076K"
+Tech Mahindra,1,-1,₹90K,₹98K
+CRM-Pride Motors,1,-1,₹355K,₹386K
+Abzooba India Infotech,1,-1,₹809K,₹884K
+Valuepitch E Technologies,1,-1,₹337K,₹366K
+Meru Mobility Tech,1,-1,₹980K,"₹1,061K"
+FlyNava Technologies,1,-1,₹21K,₹22K
+Sportz Village Schools,1,-1,₹29K,₹31K
+Hashworks,1,-1,"₹1,237K","₹1,351K"
+EY,1,-1,₹24K,₹26K
+Goldman Sachs,1,-1,₹121K,₹131K
+IQM,1,-1,₹472K,₹509K
+Champs Sports,1,-1,₹240K,₹261K
+Symphony RetailAI,1,-1,"₹1,836K","₹1,968K"
+Human Network,1,-1,₹30K,₹32K
+Mindtree,1,-1,"₹1,007K","₹1,089K"
+Valiance Solutions,1,-1,₹579K,₹629K
+Grab,1,-1,₹455K,₹490K
+L&T Technology Services,1,-1,₹54K,₹60K
+Head Digital Works,1,-1,"₹1,363K","₹1,474K"
+Paytm,1,-1,"₹3,660K","₹3,953K"
+Comsense Technologies,1,-1,₹191K,₹208K
+Walmart eCommerce,1,-1,"₹1,994K","₹2,164K"
+Tango Eye,1,-1,₹10K,₹11K
+Virtual Employee,1,-1,₹40K,₹43K
+Planit,1,-1,₹698K,₹757K
+Google,1,-1,₹32K,₹35K
+Mad Street Den Systems,1,-1,₹59K,₹65K
+GlobalStat,1,-1,₹479K,₹513K
+Moody's Analytics,1,-1,₹20K,₹22K
+Jarvis Technology & Strategy Consulting,1,-1,"₹1,163K","₹1,244K"
+Object Technology Solutions India,1,-1,"₹1,721K","₹1,859K"
+Knowledge Foundry,1,-1,₹711K,₹780K
+HT Media,1,-1,"₹2,309K","₹2,529K"
+JDA Worldwide,1,-1,₹773K,₹834K
+Knowledge Lens,1,-1,₹40K,₹43K
+Develearn Data Sciences Institute,1,-1,₹701K,₹763K
+Aptara,1,-1,₹150K,₹162K
+PCS Global Tech,1,-1,₹6K,₹7K
+Standard Chartered Bank,1,-1,"₹1,421K","₹1,560K"
+SwitchOn,1,-1,₹629K,₹672K
+Fuzzy Logix,1,-1,₹31K,₹33K
+Apple,1,-1,"₹1,389K","₹1,525K"
+Inventeron Technologies And Business Solutions,1,-1,₹404K,₹437K
+Ashok Leyland,1,-1,"₹1,326K","₹1,440K"
+Jio Platforms Ltd,1,-1,₹242K,₹260K
+Saksoft,1,-1,"₹1,736K","₹1,887K"
+Nokia,1,-1,₹955K,"₹1,023K"
+BizViz Technologies,1,-1,₹320K,₹346K
+Barclays,1,-1,"₹1,616K","₹1,761K"
+Altimetrik,1,-1,₹42K,₹46K
+Indegene,1,-1,₹26K,₹28K
+DB Corp,1,-1,₹800K,₹869K
+Freelancer,1,-1,₹609K,₹659K
+DB Corp,1,-1,₹805K,₹862K
+Freelancer,1,-1,₹602K,₹649K
+Voyomotive,1,-1,₹455K,₹489K
+Proclan Technologies,1,-1,₹508K,₹550K
+Exl-Technologies,1,-1,₹579K,₹631K
+Xenon Automotive,1,-1,₹33K,₹36K
+REACH Technologies,1,-1,₹11K,₹11K
+W. Ray Wallace,1,-1,₹48K,₹52K
+myCOL,1,-1,₹30K,₹32K
+Baby Brand Saffron,1,-1,₹95K,₹101K
+Innoclique Congitive Technologies,1,-1,"₹1,295K","₹1,421K"
+Aptus Health,1,-1,₹35K,₹39K
+Algoscale,1,-1,₹12K,₹12K
+Majorel,1,-1,"₹1,075K","₹1,173K"
+Hotify,1,-1,"₹1,240K","₹1,354K"
+Apar Technologies,1,-1,"₹1,622K","₹1,762K"
+Datafoundry,1,-1,"₹1,073K","₹1,170K"
+Elasto Tech Industries,1,-1,₹829K,₹887K
+ZS Associates,1,-1,₹48K,₹53K
+Analytical Wizards,1,-1,₹29K,₹31K
+Algo8.ai,1,-1,₹7K,₹7K
+IQLECT,1,-1,₹10K,₹11K
+iDTech Technologies,1,-1,₹631K,₹686K
+Vidooly Media Tech,1,-1,₹521K,₹563K
+Gartner,1,-1,"₹1,935K","₹2,068K"
+iPredictt Data Science Labs,1,-1,₹24K,₹26K
+Larsen & Toubro,1,-1,₹58K,₹62K
+Trendwise Analytics,1,-1,₹450K,₹488K
+Locobuzz,1,-1,₹590K,₹638K
+abv - Iiitm Gwalior,1,-1,₹48K,₹52K
+JoulestoWatts Business Solutions,1,-1,₹753K,₹812K
+Simple & Real Analytics,1,-1,₹11K,₹12K
+First Student,1,-1,₹576K,₹627K
+Ushur,1,-1,₹40K,₹43K
+Aqusag Technologies,1,-1,₹500K,₹548K
+CSS Corporation,1,-1,"₹7,578K","₹8,316K"
+Siemens,1,-1,₹479K,₹519K
+iKen Solutions,1,-1,"₹1,144K","₹1,241K"
+Internshala,1,-1,₹500K,₹546K
+AXA,1,-1,₹94K,₹102K
+Internshala,1,-1,₹500K,₹547K
+AXA,1,-1,₹94K,₹103K
+Capital One,1,-1,₹96K,₹105K
+Catallyst Executive Education Institute,1,-1,₹7K,₹8K
+NorthOut,1,-1,₹640K,₹687K
+AntWorks,1,-1,₹958K,"₹1,032K"
+ZedEye Labs,1,-1,"₹1,049K","₹1,137K"
+CronLabs Solutions,1,-1,₹345K,₹375K
+MachinePulse,1,-1,"₹1,069K","₹1,158K"
+BDO,1,-1,₹736K,₹788K
+Philips,1,-1,₹57K,₹61K
+Skill Vendors,1,-1,"₹1,257K","₹1,360K"
+EzeiaTech,1,-1,₹21K,₹23K
+Samsung R&D Institute India - Bangalore,1,-1,"₹1,869K","₹2,057K"
+St. Joseph Health System,1,-1,₹29K,₹31K
+Rakuten,1,-1,"₹1,741K","₹1,882K"
+Dayananda Sagar College of Engineering,1,-1,₹572K,₹628K
+Tapzo,1,-1,₹24K,₹26K
+Malik Girish Anand,1,-1,₹172K,₹186K
+PriceLabs,1,-1,₹38K,₹41K
+Terra Economics and Analytics Lab,1,-1,₹870K,₹941K
+TM Systems,1,-1,₹95K,₹104K
+Unbxd,1,-1,₹24K,₹26K
+Tricog Health Services,1,-1,₹673K,₹731K
+Datalicious,1,-1,"₹1,508K","₹1,637K"
+V2 Solutions,1,-1,"₹1,089K","₹1,192K"
+Real Time Signals,1,-1,₹319K,₹348K
+Self,1,-1,₹10K,₹11K
+Reliance Industries,1,-1,₹571K,₹629K
+Milkbasket,1,-1,₹91K,₹98K
+AIEnterprise,1,-1,₹667K,₹721K
+Acalvio,1,-1,"₹2,273K","₹2,446K"
+Hdfc,1,-1,₹107K,₹116K
+Snap,1,-1,"₹3,871K","₹4,146K"
+Prognos Health,1,-1,₹119K,₹129K
+Think Analytics,1,-1,₹479K,₹520K
+Data Semantics,1,-1,₹335K,₹363K
+Unbxd,1,-1,"₹2,646K","₹2,859K"
+DataWeave,1,-1,₹25K,₹27K
+McAfee,1,-1,"₹2,074K","₹2,244K"
+Condé Nast,1,-1,"₹1,017K","₹1,118K"
+Kritrim,1,-1,₹712K,₹772K
+Ellicium Solutions Private Limited,1,-1,₹231K,₹252K
+Comviva,1,-1,"₹1,322K","₹1,438K"
+Parexel,1,-1,"₹1,842K","₹2,014K"
+AnalytixLabs,1,-1,₹40K,₹43K
+Aventior,1,-1,₹13K,₹14K
+Continental,1,-1,₹17K,₹19K
+Cartesian Consulting,1,-1,₹811K,₹877K
+TTL,1,-1,₹10K,₹10K
+VertexOne,1,-1,₹196K,₹212K
+OnlineSales.ai,1,-1,₹133K,₹146K
+Accenture,1,-1,₹87K,₹94K
+Corner Stone Solution,1,-1,₹19K,₹21K
+Fractal,1,-1,₹45K,₹50K
+VMock,1,-1,"₹1,164K","₹1,244K"
+Wingify,1,-1,"₹1,748K","₹1,892K"
+Texas Instruments,1,-1,"₹1,090K","₹1,192K"
+Jaitra,1,-1,"₹1,415K","₹1,530K"
+DataFactZ,1,-1,₹315K,₹340K
+Verizon,1,-1,₹43K,₹47K
+EY-Parthenon,1,-1,"₹1,144K","₹1,244K"
+GainInsights Solutions,1,-1,₹15K,₹16K
+Spiceworks Ziff Davis,1,-1,"₹1,916K","₹2,068K"
+Mphasis,1,-1,₹717K,₹767K
+Cactus (India),1,-1,₹967K,"₹1,045K"
+Sutherland,1,-1,₹852K,₹927K
+CAPA - Centre for Aviation,1,-1,"₹5,630K","₹6,060K"
+Forec Software Solutions,1,-1,₹573K,₹621K
+Mobius365,1,-1,₹32K,₹35K
+Hewlett Packard Enterprise | HPE,1,-1,₹29K,₹31K
+"Dr. Ratan Tiwari, MD",1,-1,₹505K,₹544K
+PharmEasy,1,-1,"₹1,093K","₹1,167K"
+Soochow University,1,-1,₹951K,"₹1,036K"
+Playpower Labs,1,-1,₹954K,"₹1,039K"
+State Bank of India,1,-1,"₹1,082K","₹1,169K"
+Tata Consultancy Services (North America),1,-1,₹92K,₹100K
+Kovid Academy,1,-1,"₹1,760K","₹1,925K"
+Comsense Technologies,1,-1,₹371K,₹396K
+Decision Minds,1,-1,"₹1,712K","₹1,851K"
